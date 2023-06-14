@@ -1,0 +1,6 @@
+[submodule "package_494"]
+	path = package_494
+	url = https://github.com/bkoppelmann/package_494.git
+[submodule "gdb-tricore"]
+	path = gdb-tricore
+	url = https://github.com/bkoppelmann/gdb-tricore.git
